@@ -87,13 +87,14 @@ Live-Object-Detection/
 ### 🔮 Future Enhancements
 
 This project can be extended to include:
-🎥 Video file and IP camera support
-⚡ GPU acceleration (CUDA / OpenCL)
-📊 Object counting and analytics
-🌐 Web-based interface using Flask or Streamlit
-🧠 Custom object training
 
-✨ Conclusion
+- 🎥 Video file and IP camera support
+- ⚡ GPU acceleration (CUDA / OpenCL)
+- 📊 Object counting and analytics
+- 🌐 Web-based interface using Flask or Streamlit
+- 🧠 Custom object training
+
+### ✨ Conclusion
 
 This project demonstrates hands-on skills in:
 - Real-time computer vision
