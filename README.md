@@ -54,3 +54,24 @@ Run the following command in your terminal:
 
 ```bash
 pip install opencv-python numpy
+```
+
+## ▶️ Run the Application
+
+Execute the Python script:
+
+```bash
+python object_detection.py
+```
+
+🔴 Press q to close the detection window.
+
+## 📁 Project Structure
+```text 
+Live-Object-Detection/
+│
+├── object_detection.py
+├── MobileNetSSD_deploy.prototxt
+├── MobileNetSSD_deploy.caffemodel
+└── README.md
+```
