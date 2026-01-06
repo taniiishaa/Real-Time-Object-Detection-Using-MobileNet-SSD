@@ -75,3 +75,30 @@ Live-Object-Detection/
 ├── MobileNetSSD_deploy.caffemodel
 └── README.md
 ```
+
+### 🎯 Use Cases
+
+- Real-time surveillance systems
+- Human and object monitoring
+- Computer vision learning projects
+- AI-powered camera applications
+- Academic and demonstration projects
+
+### 🔮 Future Enhancements
+
+This project can be extended to include:
+🎥 Video file and IP camera support
+⚡ GPU acceleration (CUDA / OpenCL)
+📊 Object counting and analytics
+🌐 Web-based interface using Flask or Streamlit
+🧠 Custom object training
+
+✨ Conclusion
+
+This project demonstrates hands-on skills in:
+- Real-time computer vision
+- Deep learning model deployment
+- OpenCV DNN framework
+- Clean and structured Python programming
+
+If you find this project useful or inspiring, feel free to ⭐ star the repository!
