@@ -68,12 +68,13 @@ python object_detection.py
 
 ## 📁 Project Structure
 ```text 
-Live-Object-Detection/
+Real-Time Object Detection Using MobileNet SSD/
 │
 ├── object_detection.py
 ├── MobileNetSSD_deploy.prototxt
 ├── MobileNetSSD_deploy.caffemodel
 └── README.md
+└── requirements.txt 
 ```
 
 ### 🎯 Use Cases
