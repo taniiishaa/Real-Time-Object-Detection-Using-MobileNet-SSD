@@ -68,7 +68,7 @@ python object_detection.py
 
 ## 📁 Project Structure
 ```text 
-Real-Time Object Detection Using MobileNet SSD/
+Real-Time Object Detection Using MobileNet SSD
 │
 ├── object_detection.py
 ├── MobileNetSSD_deploy.prototxt
